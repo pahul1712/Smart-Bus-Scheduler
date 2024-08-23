@@ -1,1 +1,0 @@
-## Complete Smart-Bus-Scheduler Project in C++
